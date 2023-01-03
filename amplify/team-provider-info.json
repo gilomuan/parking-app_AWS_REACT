@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-parkingapp-dev-133158-authRole",
+      "UnauthRoleArn": "arn:aws:iam::428102422252:role/amplify-parkingapp-dev-133158-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::428102422252:role/amplify-parkingapp-dev-133158-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-parkingapp-dev-133158-deployment",
+      "UnauthRoleName": "amplify-parkingapp-dev-133158-unauthRole",
+      "StackName": "amplify-parkingapp-dev-133158",
+      "StackId": "arn:aws:cloudformation:us-east-2:428102422252:stack/amplify-parkingapp-dev-133158/e9165910-8b94-11ed-9ffe-069e9f0d5546",
+      "AmplifyAppId": "d30nxdg715kn36"
+    }
+  }
+}
